@@ -2,7 +2,6 @@
 
 void Case :: affiche() const {
 
-    std :: cout << "Nom de la case" << getNomCase()<< std :: endl;
-    std :: cout << "Numéro Case : " << getNumCase() << std :: endl;
+    std :: cout << "Nom de la case" << getNomCase()<< std :: endl; // affiche le nom de la case
     
 }
