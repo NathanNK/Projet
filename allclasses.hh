@@ -3,6 +3,7 @@
 #include <vector>
 #include <map>
 #include <list>
+#include <time.h>
 
 class Rules{ // classe qui contient les règles du jeu
     public:
